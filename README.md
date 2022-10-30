@@ -25,6 +25,7 @@
 
 Скриншоты с примерами выполнения программы:
 
-![изображение](https://user-images.githubusercontent.com/61916463/198890542-ada2f5a4-2548-4efb-8018-f9229d26f172.png)
 ![изображение](https://user-images.githubusercontent.com/61916463/198890559-f7f366ad-20df-49f4-8806-fc66244531c2.png)
 ![изображение](https://user-images.githubusercontent.com/61916463/198890582-3ff3aec0-8662-4f69-a45b-8fe4a7258660.png)
+![изображение](https://user-images.githubusercontent.com/61916463/198890654-97f69c1b-eea7-43de-bbbe-63727ef83549.png)
+![изображение](https://user-images.githubusercontent.com/61916463/198890667-87dc1692-2d91-4191-ae15-6288827bb8a4.png)
